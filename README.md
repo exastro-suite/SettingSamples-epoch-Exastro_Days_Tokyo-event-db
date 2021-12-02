@@ -1,1 +1,1 @@
-# SettingSamples-epoch-KY_CloudSummit-event-db
+# SettingSamples-epoch-Exastro_Days_Tokyo-event-db
